@@ -9,6 +9,7 @@ import EachPostPage from "./pages/EachPostPage";
 import Footer from "./components/Footer";
 import EditPost from "./pages/EditPost";
 import { DataProvider } from "./context/DataProvider";
+import "./index.css";
 
 const App = () => {
     return (
