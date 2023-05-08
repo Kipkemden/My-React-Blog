@@ -1,4 +1,4 @@
-# React Blog Website (Kipkemoi Codes)
+# Blog Website(Kipkemoi Codes)
 
 This is a React blog website that was created using Vite. It includes four components: each post, footer, header, nav. This website is designed to showcase blog posts related to programming and software engineering.
 
